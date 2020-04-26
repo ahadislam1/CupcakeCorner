@@ -15,6 +15,7 @@
 		0B59021A2455397C00AD8639 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B5902182455397C00AD8639 /* LaunchScreen.storyboard */; };
 		0B5E5B2F2455D94100F24111 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B5E5B2E2455D94000F24111 /* Order.swift */; };
 		0B5E5B312455DCAC00F24111 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B5E5B302455DCAC00F24111 /* AddressView.swift */; };
+		0B5E5B332455DDF300F24111 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B5E5B322455DDF300F24111 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		0B59021B2455397C00AD8639 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0B5E5B2E2455D94000F24111 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		0B5E5B302455DCAC00F24111 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		0B5E5B322455DDF300F24111 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0B59020D2455397B00AD8639 /* AppDelegate.swift */,
 				0B59020F2455397B00AD8639 /* SceneDelegate.swift */,
 				0B5902112455397B00AD8639 /* ContentView.swift */,
+				0B5E5B322455DDF300F24111 /* CheckoutView.swift */,
 				0B5E5B302455DCAC00F24111 /* AddressView.swift */,
 				0B5E5B2E2455D94000F24111 /* Order.swift */,
 				0B5902132455397C00AD8639 /* Assets.xcassets */,
@@ -154,6 +157,7 @@
 			files = (
 				0B59020E2455397B00AD8639 /* AppDelegate.swift in Sources */,
 				0B5902102455397B00AD8639 /* SceneDelegate.swift in Sources */,
+				0B5E5B332455DDF300F24111 /* CheckoutView.swift in Sources */,
 				0B5E5B2F2455D94100F24111 /* Order.swift in Sources */,
 				0B5902122455397B00AD8639 /* ContentView.swift in Sources */,
 				0B5E5B312455DCAC00F24111 /* AddressView.swift in Sources */,
